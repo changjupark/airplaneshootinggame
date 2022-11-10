@@ -44,3 +44,49 @@ C:\Users\Security365\source\repos\WindowsFormsApp1\bin\Debug\AirPlane Shooting G
 C:\Users\Security365\source\repos\WindowsFormsApp1\bin\Debug\AirPlane Shooting Game.pdb
 C:\Users\Security365\source\repos\WindowsFormsApp1\obj\Debug\AirPlane Shooting Game.exe
 C:\Users\Security365\source\repos\WindowsFormsApp1\obj\Debug\AirPlane Shooting Game.pdb
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\AirPlane Shooting Game.exe.config
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\AirPlane Shooting Game.exe
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\AirPlane Shooting Game.pdb
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\BouncyCastle.Crypto.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\EntityFramework.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\EntityFramework.SqlServer.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\Google.Protobuf.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\K4os.Compression.LZ4.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\K4os.Hash.xxHash.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\MySql.Data.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Buffers.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Data.SqlClient.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Data.SQLite.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Data.SQLite.EF6.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Data.SQLite.Linq.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Memory.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Numerics.Vectors.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\ZstdNet.dll
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\BouncyCastle.Crypto.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\EntityFramework.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\EntityFramework.SqlServer.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\Google.Protobuf.pdb
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\Google.Protobuf.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\K4os.Compression.LZ4.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\K4os.Hash.xxHash.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\MySql.Data.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Buffers.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Data.SqlClient.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Data.SQLite.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Memory.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Numerics.Vectors.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.airplaneshoothing.resources
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\AirPlane Shooting Game.exe
+D:\airplaneshootinggame\airplaneshootinggame\visualstudio\로그인 및 회원가입\소스코드\obj\Debug\AirPlane Shooting Game.pdb

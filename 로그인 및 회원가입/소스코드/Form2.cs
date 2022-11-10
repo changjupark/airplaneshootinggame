@@ -28,14 +28,34 @@ namespace WindowsFormsApp1
             {
                 di.Create();
                 MessageBox.Show("데이터베이스 폴더를 생성하였습니다.");
-                SQLiteConnection.CreateFile("C:\\Program Files\\ptu\\airplaneshooting.db");
-                MessageBox.Show("데이터 베이스를 생성하였습니다.");
+                string dbPath = "C:\\Program Files\\ptu\\airplaneshooting.db";
+                FileInfo db = new FileInfo(dbPath);
+                if (db.Exists == false)
+                {
+                    SQLiteConnection.CreateFile(dbPath);
+                    MessageBox.Show("데이터 베이스를 생성하였습니다.");
+                }
+                else
+                {
+                    MessageBox.Show("데이터 베이스가 생성되어있습니다.");
+                }
+            
             }
             else
             {
-                SQLiteConnection.CreateFile("C:\\Program Files\\ptu\\airplaneshooting.db");
-                MessageBox.Show("데이터 베이스를 생성하였습니다.");
+                string dbPath = "C:\\Program Files\\ptu\\airplaneshooting.db";
+                FileInfo db = new FileInfo(dbPath);
+                if (db.Exists == false)
+                {
+                    SQLiteConnection.CreateFile(dbPath);
+                    MessageBox.Show("데이터 베이스를 생성하였습니다.");
+                }
+                else
+                {
+                    MessageBox.Show("데이터 베이스가 생성되어있습니다.");
+                }
             }
+            
         }
         private SQLiteConnection conn = null;
 
